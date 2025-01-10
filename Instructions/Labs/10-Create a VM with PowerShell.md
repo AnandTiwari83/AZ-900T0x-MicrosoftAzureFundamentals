@@ -135,7 +135,7 @@ In this task, we will review Azure Advisor recommendations for our virtual machi
 
     >**Note:** Depending on your resources, your recommendations will be different and you might get the notification "You are following all of our performance recommendations".
 
-1. Select **All recommendations** from the left navigation pane and take time to view each recommendation and suggested actions.
+1. Select **All recommendations** under **Recommendations** from the left navigation pane and take time to view each recommendation and suggested actions.
 
     >**Note:** Depending on your resources, your recommendations will be different and you might get the notification "You are following all of our performance recommendations".
 
